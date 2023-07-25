@@ -1,0 +1,71 @@
+
+.navbar{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    background-color:#D7C0AE;
+    border-radius: 0px;
+    top:0px;
+    height: 75px;
+    width: 1530px;
+     
+   }
+   .navbar
+   .logo img{
+    width: 60px;
+    height: 60px;
+    margin-left: 5px;
+    margin-right: 1200px;
+    border-radius: 30px;
+   }
+   .navbar ul{
+    display: flex;
+    margin: 10px;
+  
+   }
+   .navbar ul li{
+    list-style: none;
+    display: block;
+   }
+   .navbar ul li a{
+    text-decoration: none;
+    font-size: large;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: block;
+    margin: 15px;
+    color: black;
+   }
+   .intro img{
+        display: flex;
+        height:200px;
+        justify-content: center;
+        align-items: center;
+        
+   }
+   .recipe{
+    background-color: #EEE3CB;
+    padding:500px 500px 400px 400px;
+    display: flex;
+   }
+   .r1{
+    background-color: white;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    padding-left: 300px;
+    padding-right:300px;
+   
+   }
+   .r1 img{
+    width:300px;
+    height:300px;
+   }
+   .khicadibutton{
+    height:40px;
+    width:40px;
+    border-radius: 20px;
+    background-color: black;
+    color:white;
+   }
+   
